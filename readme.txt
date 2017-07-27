@@ -9,4 +9,4 @@ Git branch test add something to mater when some modify in devtest2 too!
 Git branch test aaaaaaaaaaa..
 Git branch test fast-forward.
 Git branch test no fast-forward.
-
+Git stash test in bugfix.
