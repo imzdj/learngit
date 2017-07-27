@@ -7,3 +7,4 @@ Git create branch test.
 Git branch test again by myself.
 Git branch test add something to mater when some modify in devtest2 too!
 Git branch test aaaaaaaaaaa..
+Git branch test fast-forward.
