@@ -11,3 +11,4 @@ Git branch test fast-forward.
 Git branch test no fast-forward.
 Git stash test in bugfix.
 Git stash test in mater.
+Git the other account to new origin dev branch and commit somethings.
