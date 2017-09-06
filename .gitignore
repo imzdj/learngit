@@ -1,0 +1,25 @@
+*.py[cod]
+
+# C extensions
+*.so
+
+# Packages
+build
+bin
+lib
+lib64
+
+# Installer logs
+log.txt
+
+# Unit test / coverage reports
+.coverage
+.tox
+nosetests.xml
+
+# Translations
+*.mo
+
+# Mr Developer
+.project
+.pydevproject
