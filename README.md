@@ -1,5 +1,6 @@
+CUBE_WORLD_SERVER
+=======
 ![cube_world_server](https://webinput.nie.netease.com/img/mc/logo.png)
-[![Build Status](http://mconline.duowan.com/)](http://dl.pconline.com.cn/download/365031.html) [![Build status](http://mcbox.tuboshu.com/)](http://mconline.duowan.com/)
 ====
 
 Note that only supports x86 and x86-64, so it will not work on ARM.
